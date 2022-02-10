@@ -1,0 +1,28 @@
+{
+  "name": "judge_string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniscoelho-js/judge_string.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniscoelho-js/judge_string/issues"
+  },
+  "homepage": "https://github.com/deniscoelho-js/judge_string#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.1.1"
+  }
+}
